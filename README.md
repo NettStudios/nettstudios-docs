@@ -11,7 +11,7 @@ Saiba mais sobre os sistemas do theNettko.
 Atualmente, o theNettko possui os seguintes sistemas:
 
 - Nettko (site principal):
-  - Web: thenettko.vercel.app/
+  - Web: [thenettko.vercel.app/](https://thenettko.vercel.app/)
  <!-- - Mobile: _Em breve_
   - Ambientes para testes:
   - Staging: https://novo-staging.nettkobrasil.com/
