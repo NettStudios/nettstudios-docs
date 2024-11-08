@@ -10,7 +10,8 @@ Saiba mais sobre os sistemas do theNettko.
 # Overview
 Atualmente, o theNettko possui os seguintes sistemas:
 
-- Nettko (site principal):
+- Nettko:
+  - Development: https://nettko-frontend-website-development.vercel.app/
   - Web: [thenettko.vercel.app/](https://thenettko.vercel.app/)
  <!-- - Mobile: _Em breve_
   - Ambientes para testes:
@@ -28,10 +29,12 @@ Atualmente, o theNettko possui os seguintes sistemas:
 # Ambientes
 Todos os sistemas são compostos de três ambientes:
 
+- Main:
+  - Sendo o principal ambiente, é utilizado por todas as pessoas para interagir com o sistema oficial!
 - Production:
-  - Sendo o principal ambiente, é utilizado por todas as pessoas que queiram interagir com o sistema de forma oficial.
+  - Sendo quase o ambiente principal, é utilizado para a aprovação final antes de todas as pessoas interagirem com o sistema.
 - Staging:
-  - Antes de entrar para production, as modificações passam pelo ambiente de staging para terem uma validação e aprovação final.
+  - Antes de entrar para production, as modificações passam pelo ambiente de staging para terem uma validação ou aprovação final.
 - Development:
   - Quando novas funcionalidades ficam prontas e são revisadas individualmente, elas ficam no ambiente de development antes de entrarem para o ambiente de staging. Assim, é possível detectar problemas mais rapidamente, antes deles entrarem para o ambiente de production.
  
