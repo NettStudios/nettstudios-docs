@@ -29,8 +29,6 @@ Atualmente, o theNettko possui os seguintes sistemas:
 # Ambientes
 Todos os sistemas são compostos de três ambientes:
 
-- Main:
-  - Para Deploy!.
 - Production:
   - Sendo o principal ambiente, é utilizado por todas as pessoas para interagir com o sistema oficial!
 - Staging:
