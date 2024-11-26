@@ -30,15 +30,14 @@ Atualmente, o theNettko possui os seguintes sistemas:
 Todos os sistemas são compostos de três ambientes:
 
 - Main:
-  - Desenvolvimento geral do sistema e para Deploy!.
+  - Para Deploy!.
 - Production:
   - Sendo o principal ambiente, é utilizado por todas as pessoas para interagir com o sistema oficial!
 - Staging:
   - Antes de entrar para production, as modificações passam pelo ambiente de staging para terem uma validação ou aprovação final.
 - Development:
   - Quando novas funcionalidades ficam prontas e são revisadas individualmente, elas ficam no ambiente de development antes de entrarem para o ambiente de staging. Assim, é possível detectar problemas mais rapidamente, antes deles entrarem para o ambiente de production.
-- V1.0:
- - Sendo o antigo projeto inicial!
+
  
 # Repositórios
 Todos os projetos do theNettko estão hospedados no GitHub, distribuídos nos seguintes repositórios:
