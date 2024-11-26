@@ -41,7 +41,7 @@ Todos os sistemas são compostos de três ambientes:
  - Sendo o antigo projeto inicial!
  
 # Repositórios
-Todos os projetos do Samsung Ocean estão hospedados no GitHub, distribuídos nos seguintes repositórios:
+Todos os projetos do theNettko estão hospedados no GitHub, distribuídos nos seguintes repositórios:
 
 - Nettko
   - Web: https://github.com/theNettko/nettko-frontend
