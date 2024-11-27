@@ -1,4 +1,3 @@
-# theNettko
 
 ![theNettko](./docs/banner-web.png)
 
