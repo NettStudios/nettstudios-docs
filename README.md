@@ -1,7 +1,7 @@
 
 ![theNettko](./docs/banner-web.png)
 
-Bem-vindo ao **theNettko**! Este projeto é um site dedicado a fornecer informações sobre games, incluindo vídeos, notícias e atualizações relacionadas a games e programação. O **theNettko** foi criado em 2015 como um canal do YouTube, e agora estamos expandindo nosso conteúdo para incluir um site interativo que oferece uma experiência completa para entusiastas de jogos e programação.
+Bem-vindo ao **NettStudios**! Este projeto é um site dedicado a fornecer informações sobre games, incluindo vídeos, notícias e atualizações relacionadas a games. O **theNettko** foi criado em 2015 como um canal do YouTube, e agora estamos expandindo nosso conteúdo para incluir um site interativo que oferece uma experiência completa para entusiastas de jogos e programação.
 
 Saiba mais sobre os sistemas do theNettko.
 
@@ -16,7 +16,7 @@ Atualmente, o theNettko possui os seguintes sistemas:
   - Ambientes para testes:
   - Staging: https://novo-staging.nettkobrasil.com/
   - Development: https://novo-dev.nettkobrasil.com/
-- Admin (sistema administrativo):
+<!--- Admin (sistema administrativo):
   - Web: https://admin.nettkobrasil.com/
   - Ambientes para testes:
   - Staging: https://admin-staging.nettkobrasil.com/
