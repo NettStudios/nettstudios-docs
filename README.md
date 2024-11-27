@@ -1,19 +1,19 @@
 # theNettko
 
-![theNettko](./docs/banner - web)
+![theNettko](./docs/banner-web.png)
 
 Bem-vindo ao **theNettko**! Este projeto é um site dedicado a fornecer informações sobre games, incluindo vídeos, notícias e atualizações relacionadas a games e programação. O **theNettko** foi criado em 2015 como um canal do YouTube, e agora estamos expandindo nosso conteúdo para incluir um site interativo que oferece uma experiência completa para entusiastas de jogos e programação.
 
 Saiba mais sobre os sistemas do theNettko.
 
-
 # Overview
+
 Atualmente, o theNettko possui os seguintes sistemas:
 
 - Nettko:
   - Development: https://nettko-frontend-website-development.vercel.app/
   - Web Atual: [thenettko.vercel.app/](https://thenettko.vercel.app/)
- <!-- - Mobile: _Em breve_
+  <!-- - Mobile: _Em breve_
   - Ambientes para testes:
   - Staging: https://novo-staging.nettkobrasil.com/
   - Development: https://novo-dev.nettkobrasil.com/
@@ -27,6 +27,7 @@ Atualmente, o theNettko possui os seguintes sistemas:
   - Admin: https://api.nettkobrasil.com/prod/admin/swagger/ -->
 
 # Ambientes
+
 Todos os sistemas são compostos de três ambientes:
 
 - Production:
@@ -36,16 +37,16 @@ Todos os sistemas são compostos de três ambientes:
 - Development:
   - Quando novas funcionalidades ficam prontas e são revisadas individualmente, elas ficam no ambiente de development antes de entrarem para o ambiente de staging. Assim, é possível detectar problemas mais rapidamente, antes deles entrarem para o ambiente de production.
 
- 
 # Repositórios
+
 Todos os projetos do theNettko estão hospedados no GitHub, distribuídos nos seguintes repositórios:
 
 - Nettko
   - Web: https://github.com/theNettko/nettko-frontend
- <!-- - Mobile: _Em breve_ -->
-<!-- - Admin
-  - Web:  _Em breve_
-- Hotsites:  _Em breve_ -->
-- Backend:  https://github.com/theNettko/nettko-backend
+     <!-- - Mobile: _Em breve_ -->
+    <!-- - Admin
+  - Web: _Em breve_
+- Hotsites: _Em breve_ -->
+- Backend: https://github.com/theNettko/nettko-backend
 - Documentação: https://github.com/theNettko/nettko-docs
 <!-- - Manutenção:  _Em breve_ -->
