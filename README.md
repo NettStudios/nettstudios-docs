@@ -1,5 +1,5 @@
 
-![NettStudios](./docs/NettStudios-logo.png)
+![NettStudios](./docs/NettStudios-banner.PNG)
 
 Bem-vindo ao **NettStudios**! Este projeto é um site dedicado a fornecer informações sobre games, incluindo vídeos, notícias e atualizações relacionadas a games. O **NettStudios** foi criado em 2015 como um canal do YouTube, e agora estamos expandindo nosso conteúdo para incluir um site interativo que oferece uma experiência completa para entusiastas de jogos e programação.
 
