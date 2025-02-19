@@ -10,8 +10,9 @@ Saiba mais sobre os sistemas do NettStudios.
 Atualmente, o theNettko possui os seguintes sistemas:
 
 - NettStudios:
-  - Development: https://nettstudios-frontend-website-development.vercel.app/
-  - Web Atual: [nettstudios.vercel.app/](https://thenettko.vercel.app/)
+  - Staging: https://nettstudios-frontend-staging.vercel.app/
+   - Development: https://dev-nettstudios-frontend.vercel.app/
+    - Web Atual: www.nettstudios.com.br
 
 # Ambientes
 
@@ -29,9 +30,9 @@ Todos os sistemas são compostos de três ambientes:
 Todos os projetos do theNettko estão hospedados no GitHub, distribuídos nos seguintes repositórios:
 
 - Nettko
-  - Web: https://github.com/theNettko/nettstudios-frontend
+  - Web: https://github.com/nettstudioscorp/nettstudios-frontend
      <!-- - Mobile: _Em breve_ -->
     <!-- - Admin
   <!-- - Web: _Em breve_ -->
-- Backend: https://github.com/theNettko/nettstudios-backend
-- Documentação: https://github.com/theNettko/nettko-docs
+- Backend: https://github.com/nettstudioscorp/nettstudios-backend
+- Documentação: https://github.com/nettstudioscorp/nettstudios-docs
